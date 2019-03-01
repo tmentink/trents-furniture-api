@@ -1,0 +1,14 @@
+{
+  "name": "trents-furniture-api",
+  "version": "1.0.0",
+  "description": "Fake REST API for Trent's Furniture",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Trent Mentink",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
